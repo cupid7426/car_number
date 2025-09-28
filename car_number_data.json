@@ -1380,7 +1380,7 @@
   "54": [
     {
       "info1": "[車] ",
-      "info2": "5（S）4でスバルWRX S4",
+      "info2": "5（Sに見える）4でスバルWRX S4",
       "info3": "",
       "priority": 3
     },
@@ -1568,8 +1568,8 @@
     },
     {
       "info1": "[車] ",
-      "info2": "サファリY61、SUPER GTに参戦したSUBARU BRZ R&D SPORTのナンバー61",
-      "info3": "",
+      "info2": "サファリY61、SUBARU BRZ R&D SPORTのナンバー",
+      "info3": "（SUPER GTに参戦）",
       "priority": 2
     },
     {
@@ -4302,7 +4302,7 @@
     },
     {
       "info1": "[語呂] ",
-      "info2": "いろは、広場",
+      "info2": "いろは（かるた）、広場",
       "info3": "",
       "priority": 2
     }
@@ -6375,14 +6375,14 @@
       "priority": 3
     },
     {
-      "info1": "[地名] ",
-      "info2": "エチオピア（国際電話番号）",
-      "info3": "",
-      "priority": 1
-    },
-    {
       "info1": "[語呂] ",
       "info2": "ニコイチ",
+      "info3": "",
+      "priority": 3
+    },
+    {
+      "info1": "[地名] ",
+      "info2": "エチオピア（国際電話番号）",
       "info3": "",
       "priority": 1
     },
@@ -9350,7 +9350,7 @@
     },
     {
       "info1": "[語呂] ",
-      "info2": "みなさん、南",
+      "info2": "皆さん、南",
       "info3": "",
       "priority": 2
     }
@@ -79274,7 +79274,7 @@
     },
     {
       "info1": "[語呂] ",
-      "info2": "恋色",
+      "info2": "濃い色、恋色",
       "info3": "",
       "priority": 2
     }
